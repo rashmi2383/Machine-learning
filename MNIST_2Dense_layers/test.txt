@@ -1,0 +1,1 @@
+MNIST digit classification using 2 dense layers
