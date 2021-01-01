@@ -1,0 +1,1 @@
+MNIST digit classifier with 2 dense layers and sigmoid function
